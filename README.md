@@ -114,7 +114,7 @@ Explore the `tensorflow-ipynb/` folder for training notebooks and model experime
 
 | | |
 |:---:|:---:|
-| 📚 **Course** | CSE442: Artificial Intelligence |
+| 📚 **Course** | CSE442: NATURAL LANGUAGE-DRIVEN UI/UX |
 | 🏫 **University** | BRAC University |
 | 👤 **Student** | Mazbha Ul Haque |
 | 🆔 **Student ID** | 22101514 |
